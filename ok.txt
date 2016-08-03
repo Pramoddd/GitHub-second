@@ -1,0 +1,6 @@
+Channels/API
+
+You can use the Zendesk API to access Zendesk functionality, such as creating, editing, and deleting tickets. You can integrate Zendesk features in your own applications or build apps to add functionality to your Zendesk.
+
+Your use and access to the API is expressly conditioned on your compliance with the policies, restrictions and other provisions related to the API set forth in our API Restrictions and Responsibilities and the other documentation we provide you. You must also comply with the restrictions set forth in the Zendesk Terms and Conditions and the Zendesk Privacy Policy, in all uses of the API. If Zendesk believes that you have or attempted to violate any term, condition or the spirit of these policies or agreements, your right to access and use the API may be temporarily or permanently revoked.
+Learn more
